@@ -1,0 +1,24 @@
+Tema: Inferencia sobre una media (IC 95 % y t de Student)
+📊 Datos del estudio
+•	Media: 84,0 mmHg (muestra)
+•	DE: 9,1
+•	n = 10
+•	Valor de referencia: 74,4 mmHg ( población)
+•	IC 95 %: 77,49 – 90,51
+•	p-valor: 0,0087
+________________________________________
+Pregunta 5
+El valor 74,4 mmHg no está dentro del IC 95 %.
+¿Qué concluyo?
+•	Es compatible
+•	No hay diferencias
+•	Hay diferencia estadísticamente significativa ✅
+📘 Feedback:
+Si el valor no está en el intervalo, existe evidencia de diferencia.
+________________________________________
+Pregunta 6
+Con un p-valor de 0,0087 y un nivel de confianza del 95 %, ¿qué hago con la hipótesis nula?
+•	No se puede rechazar
+•	Se rechaza la hipótesis nula ✅
+📘 Feedback:
+p < 0,05 indica significación estadística.
